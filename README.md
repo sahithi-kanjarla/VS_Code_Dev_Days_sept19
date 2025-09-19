@@ -10,7 +10,7 @@ It continuously cycles through **Plan → Act → Observe → Adapt**, requiring
 ## 1️⃣ Copilot vs Agentic AI
 
 **Copilot** – *AI assistant that responds to individual prompts.*  
-- Examples: ChatGPT, Claude, Gemini, GitHub Copilot  
+- Examples: ChatGPT, Claude, Gemini
 - Works like an advanced autocomplete or tutor.  
 - Flow: **Prompt → Response**; the human stays in charge of each step.
 
